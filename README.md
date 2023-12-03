@@ -20,9 +20,3 @@ Welcome to the WeatherApp—a Java-based application to fetch and display weathe
 ## Dependencies
 
 - [OpenWeatherMap API](https://openweathermap.org/api): Obtain your API key and replace the placeholder in the code with your own key.
-
-## Contribution
-
-Feel free to contribute by reporting issues, suggesting improvements, or adding new features. Your collaboration is valuable to enhance the WeatherApp.
-
-Let the WeatherApp be your go-to companion for staying informed about the weather! ☀️🌦️🌧️
